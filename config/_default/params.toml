@@ -100,7 +100,7 @@ address = {street = "Department of Economics, University of Oregon", city = "Eug
 coordinates = {latitude = "44.0448", longitude = "-123.0726"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter PLC Building and take the elevator to Office 830 on Floor 8"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
