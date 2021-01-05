@@ -22,24 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Employee
+    company: University of Oregon
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Eugene, Oregon
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching Assistance
+        * Training in R
+        * Grading/Feedback
         
-  - title: Professor
-    company: University X
+  - title: Research Assistant
+    company: Economic and Social Research Institute
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Dublin, Ireland
+    date_start: '2017-09-01'
+    date_end: '2019-09-01'
+    description: Contributed to short-term forcasting, international commentary and research in housing and macroeconomics.
+    
+    
+      - title: Teaching Assistant
+    company: University College Dublin
+    company_url: ''
+    location: Dublin, Ireland
+    date_start: '2016-09-01'
+    date_end: '2017-06-01'
+    description: Taught principles of macroeconomics.
+    
 ---
