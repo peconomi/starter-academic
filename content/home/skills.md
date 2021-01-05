@@ -21,11 +21,11 @@ feature:
   icon_pack: fab
   name: R
 - description: 20%
-  icon: cogs
+  icon: chart-bar
   icon_pack: fas
   name: Statistics
 - description: 50%
-  icon: user-chart
+  icon: cogs
   icon_pack: fab
   name: Econometrics
 
