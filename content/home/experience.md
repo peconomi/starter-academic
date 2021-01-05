@@ -41,10 +41,9 @@ experience:
     location: Dublin, Ireland
     date_start: '2017-09-01'
     date_end: '2019-09-01'
-    description: Contributed to short-term forcasting, international commentary and research in housing and macroeconomics.
+    description: Contributed to short-term forcasting, international commentary and research in housing and macroeconomics.  
     
-    
-      - title: Teaching Assistant
+  - title: Teaching Assistant
     company: University College Dublin
     company_url: ''
     location: Dublin, Ireland
