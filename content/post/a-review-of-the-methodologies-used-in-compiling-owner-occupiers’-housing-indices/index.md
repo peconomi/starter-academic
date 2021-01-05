@@ -6,6 +6,16 @@ subtitle: with A., Ahrens, K., Beirne, I., Kostarakos, K., McQuinn, Kieran & and
 date: 2021-01-05T07:16:18.548Z
 draft: false
 featured: false
+authors:
+  - A.
+  - Ahrens
+  - K.
+  - Beirne
+  - I.
+  - Kostarakos
+  - K.
+  - McQuinn
+  - Kieran & and C. O'Toole
 image:
   filename: featured.jpg
   focal_point: Smart
