@@ -26,7 +26,7 @@ summary: "A counterfactual analysis of the long-run growth prospects of Ireland
   government's Department of Finance and co-authored as part of the ESRI. "
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *QEC*
 url_source: ""
 url_video: ""
 title: Ireland and Brexit
