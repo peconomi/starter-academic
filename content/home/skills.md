@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 20%
-  icon: chart-line
+  icon: cogs
   icon_pack: fas
   name: Statistics
 - description: 50%
