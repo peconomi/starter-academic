@@ -7,9 +7,9 @@ draft: false
 featured: false
 authors:
   - admin
-  - Kieran_McQuinn
-  - Conor_O'Toole
-lastmod: 2020-12-13T00:00:00Z
+  - Kieran McQuinn
+  - Conor O'Toole
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Housing
   - Macroprudential
