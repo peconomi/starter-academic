@@ -20,7 +20,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: In *Wowchemy Conference*
+publication: In *Quarterly Economic Commentary*
 summary: "A counterfactual analysis of the long-run growth prospects of Ireland
   under various potential Brexit scenarios. Commissioned by the Irish
   government's Department of Finance and co-authored as part of the ESRI. "
@@ -41,9 +41,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: brexit-trade-deal.jpg
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
