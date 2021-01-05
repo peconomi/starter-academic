@@ -16,7 +16,7 @@ abstract: This Article attempts to quantify the macroeconomic impact of Brexit
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "4"
 authors:
   - admin
 author_notes: []
