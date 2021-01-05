@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 50%
   icon: user-chart
-  icon_pack: fas
+  icon_pack: fab
   name: Econometrics
 
 # Uncomment to use emoji icons.
