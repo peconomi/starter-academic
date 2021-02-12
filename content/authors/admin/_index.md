@@ -1,7 +1,7 @@
 ---
 title: Philip Economides
 role: PhD Candidate, Economics
-avatar_filename: AVATAR.jpg
+avatar_filename: ""
 bio: My research interests include international economics, applied econometrics
   and industrial organization.
 interests:
