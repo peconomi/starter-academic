@@ -31,15 +31,15 @@ organizations:
   - name: University of Oregon
 education:
   courses:
+    - course: PhD in Economics
+      institution: University of Oregon
+      year: ""
     - course: MSc in Applied Economics
       institution: University College Dublin, Ireland
       year: 2017
     - course: BA in Economics
       institution: Trinity College Dublin, Ireland
       year: 2014
-    - course: PhD in Economics
-      institution: University of Oregon
-      year: ""
 email: ""
 superuser: true
 highlight_name: false
