@@ -37,6 +37,9 @@ education:
     - course: BA in Economics
       institution: Trinity College Dublin, Ireland
       year: 2014
+    - course: PhD in Economics
+      institution: University of Oregon
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
