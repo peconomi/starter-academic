@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am an Irish-Cypriot and currently a second year Ph.D. candidate in Economics at the University of Oregon. Prior to this, I have been affiliated with the Economic and Social Research Institute as a research assistant, University College Dublin as a teaching assistant and Trinity College Dublin as an adjunct research assistant. My research aims to focus on topics in international trade, particularly with respect to trade barriers and global value chains.
+I am an Irish-Cypriot and currently a third year Ph.D. candidate in Economics at the University of Oregon. Prior to this, I have been affiliated with the Economic and Social Research Institute as a research assistant, University College Dublin as a teaching assistant and Trinity College Dublin as an adjunct research assistant. My research aims to focus on topics in international trade, particularly with respect to multinational enterprises, trade barriers and global supply chains.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/EconomidesCV-May2021.pdf" "newtab" >}}CV{{< /staticref >}}.
