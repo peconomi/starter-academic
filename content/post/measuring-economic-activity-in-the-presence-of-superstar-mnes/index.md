@@ -5,7 +5,10 @@ date: 2021-12-11T23:45:23.073Z
 draft: false
 featured: false
 authors:
-  - G.Nikolaishvili
+  - Economides
+  - P.
+  - and G.
+  - Nikolaishvili
 image:
   filename: featured.png
   focal_point: Smart
