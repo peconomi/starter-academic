@@ -7,15 +7,17 @@ date: 2021-01-05T07:16:18.548Z
 draft: false
 featured: false
 authors:
-  - A.
   - Ahrens
+  - A.
   - K.
   - Beirne
+  - P.
+  - Economides
   - I.
   - Kostarakos
   - K.
   - McQuinn
-  - Kieran & and C. O'Toole
+  - "& C. O'Toole"
 image:
   filename: featured.jpg
   focal_point: Smart
