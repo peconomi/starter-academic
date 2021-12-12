@@ -100,11 +100,11 @@ address = {street = "Prince Lucien Campbell Hall, University of Oregon", city = 
 coordinates = {latitude = "44.0448", longitude = "-123.0726"}
 
 # Directions for visitors to locate you.
-directions = "Enter PLC Building and take the elevator to Office 830 on Floor 8"
+directions = "Enter PLC Building and take the elevator to Office 520 on Floor 5"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Wednesday 14:00 to 15:00"]
+office_hours = ["Tues. 15:00 to 16:00 & Thurs. 10:00-11:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
