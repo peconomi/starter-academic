@@ -6,7 +6,7 @@ weight: 65
 title: Work in Progress
 subtitle: null
 content:
-  page_type: post
+  page_type: work_prog
   count: 5
   filters:
     author: ""
