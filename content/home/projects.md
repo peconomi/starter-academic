@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Int. Trade
-    tag: Int. Trade
+    tag: 'Trade'
   - name: Time Series
-    tag: Time Series
+    tag: 'ts'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
