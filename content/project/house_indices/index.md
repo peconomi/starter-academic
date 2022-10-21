@@ -9,7 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 tags:
-  - ts
   - wp
 ---
 This paper examines the manner in which owner-occupiers housing costs are incorporated in the official inflation index. 
