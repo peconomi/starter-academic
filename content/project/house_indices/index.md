@@ -3,7 +3,7 @@ title: A Review of the Methodologies used in Compiling Owner-Occupiers’ Housin
 date: 2021-06-11T06:43:53.666Z
 draft: false
 featured: false
-external_link: https://philip-economides.com/post/measuring-economic-activity-in-the-presence-of-superstar-mnes/
+external_link: https://philip-economides.com/post/a-review-of-the-methodologies-used-in-compiling-owner-occupiers-housing-indices/
 image:
   filename: featured
   focal_point: Smart
