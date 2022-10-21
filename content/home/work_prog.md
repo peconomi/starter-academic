@@ -1,5 +1,6 @@
 ---
 widget: pages
+active: false
 widget_id: Work in Progress
 headless: true
 weight: 65
