@@ -2,8 +2,7 @@
 title: Philip Economides
 role: PhD Candidate, Economics
 avatar_filename: avatar.jpg
-bio: My research interests include international economics, applied econometrics
-  and industrial organization.
+bio: My research focuses on maritime trade and transport, MNE activities and trade barriers.
 interests:
   - International Economics
   - Transport Economics
