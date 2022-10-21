@@ -27,14 +27,17 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Int. Trade
-    tag: 'Trade'
-  - name: Time Series
-    tag: 'ts'
+  - name: Published
+    tag: 'pub'
   - name: Working Papers
     tag: 'wp'
   - name: Work-in-Progress
     tag: 'wip'
+  - name: Int. Trade
+    tag: 'Trade'
+  - name: Time Series
+    tag: 'ts'
+
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
