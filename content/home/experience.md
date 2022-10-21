@@ -30,10 +30,9 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Teaching Assistance
-        * Training in R
-        * Grading/Feedback
+        * Lecturer for EC320 International Economics & EC 380 Econometrics
+        * Teaching Assistant in PhD/Masters level Econometrics
+        * TA role involves training students in R, grading and office hours
         
   - title: Research Assistant
     company: Economic and Social Research Institute
