@@ -31,7 +31,10 @@ content:
     tag: 'Trade'
   - name: Time Series
     tag: 'ts'
-
+  - name: Working Papers
+    tag: 'wp'
+  - name: Work-in-Progress
+    tag: 'wip'
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
