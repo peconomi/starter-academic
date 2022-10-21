@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Lecturer for EC320 International Economics & EC 380 Econometrics
+        * Lecturer for EC320 International Economics & EC380 Econometrics
         * Teaching Assistant in PhD/Masters level Econometrics
         * TA role involves training students in R, grading and office hours
         
