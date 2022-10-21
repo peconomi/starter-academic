@@ -3,7 +3,7 @@ title: Measuring Economic Activity in the Presence of Superstar MNEs
 date: 2021-06-11T06:43:53.666Z
 draft: false
 featured: false
-external_link: .
+external_link: https://philip-economides.com/post/measuring-economic-activity-in-the-presence-of-superstar-mnes/
 image:
   filename: featured
   focal_point: Smart
