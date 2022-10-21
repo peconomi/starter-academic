@@ -4,7 +4,6 @@ intending to purchase a home. These measures tighten loan‐to‐value ratios an
 significant impact on savings constraints. Indeed, constrained potential buyers, who are planning to purchase, but not presently saving to buy a home, are 
 the group most affected as the macroprudential rules increase the downpayment size required. Heterogeneous effects across households indicate younger, private 
 renting households, and those with relatively uncertain cash flows.
-
 url_pdf: ""
 publication_types:
   - "4"
