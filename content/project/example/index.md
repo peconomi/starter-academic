@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 summary: " A firm-level analysis that assumes exogeneous productivity a la
   Melitz (2003). Measuring implied shifts in fixed costs of entry and export
