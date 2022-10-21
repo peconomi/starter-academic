@@ -1,6 +1,5 @@
 ---
 abstract: We investigate the impact of macroprudential policy on Irish households' perception of savings adequacy, with a particular focus on households  intending to purchase a home. These measures tighten loan‐to‐value ratios and raise the entry cost for home purchase. We find that the measures have had a  significant impact on savings constraints. Indeed, constrained potential buyers, who are planning to purchase, but not presently saving to buy a home, are the group most affected as the macroprudential rules increase the downpayment size required. Heterogeneous effects across households indicate younger, private renting households, and those with relatively uncertain cash flows.
-slides: example
 url_pdf: ""
 publication_types:
   - "4"
