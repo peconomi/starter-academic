@@ -20,7 +20,6 @@ doi: ""
 featured: true
 tags: []
 projects:
-  - example
 image:
   caption: ""
   focal_point: ""
