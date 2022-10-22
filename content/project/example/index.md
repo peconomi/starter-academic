@@ -6,7 +6,7 @@ summary: " A firm-level analysis that assumes exogeneous productivity a la
   countries."
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
-external_link: "null"
+external_link: .
 url_slides: ""
 title: Firm-Level Productivity and Corruption
 tags:
