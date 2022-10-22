@@ -1,6 +1,6 @@
 ---
 title: Measuring Economic Activity in the Presence of Superstar MNEs
-subtitle: with Giorgi Nikolaishvili
+subtitle: with [Giorgi Nikolaishvili](http://giorginikolaishvili.com/)
 date: 2021-12-11T23:45:23.073Z
 draft: false
 featured: false
