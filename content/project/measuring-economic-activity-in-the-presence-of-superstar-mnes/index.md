@@ -14,8 +14,6 @@ tags:
 
 ---
 
-#### Submitted
-
 The Finance Act of 2015 introduced Irish residency, foreign-owned status to a number of large firms that otherwise functioned as "Stateless" while maintaining minimal effective tax rates on profits earned internationally. In tandem with this change came a +25% increase in GDP. 
 
 With these changes Irish GDP has become unpredictable, national accounting workarounds seem to be inadequate and a lack of vision of domestic activity available to policymakers hampers countercyclical fiscal action. 
