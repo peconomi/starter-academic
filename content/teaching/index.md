@@ -16,14 +16,14 @@ header:
 
 Lecturer<br>
 
-**EC 320**
+**EC 320 Introduction to Econometrics**
 
-**EC 380**
+**EC 380 International Economic Issues**
 
 Teaching Assistant<br>
 
-**EC 320**
+**EC 320 Introduction to Econometrics**
 
-**EC 421**
+**EC 421 Introduction to Econometrics**
 
-**EC 607**
+**EC 607 Econometrics III, PhD**
