@@ -16,7 +16,7 @@ header:
 
 Lecturer<br>
 
-**EC 320**
+**EC 320**: Introduction to Econometrics
 
 **EC 380**
 
