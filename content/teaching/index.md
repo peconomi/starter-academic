@@ -14,13 +14,13 @@ header:
   image: ""
 ---
 
-Lecturer<br>
+### Lecturer<br>
 
 **EC 320 Introduction to Econometrics**<br>
 
 **EC 380 International Economic Issues**<br>
 
-Teaching Assistant<br>
+### Teaching Assistant<br>
 
 **EC 320 Introduction to Econometrics**<br>
 
