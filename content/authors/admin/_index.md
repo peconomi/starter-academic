@@ -1,8 +1,9 @@
 ---
 title: Philip Economides
 role: PhD Candidate, Economics
-avatar_filename: DSC01856.jpeg
-bio: My research focuses on maritime trade and transport, MNE activities and trade barriers.
+avatar_filename: dsc01856.png
+bio: My research focuses on maritime trade and transport, MNE activities and
+  trade barriers.
 interests:
   - International Economics
   - Transport Economics
