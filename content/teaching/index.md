@@ -16,9 +16,9 @@ header:
 
 Lecturer<br>
 
-**EC 320** Introduction to Econometrics
+**EC 320**
 
-**EC 380** International Economic Issues
+**EC 380**
 
 Teaching Assistant<br>
 
