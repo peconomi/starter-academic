@@ -29,8 +29,7 @@ header:
 *The GEs were awesome they really helped with my learning.*
 *Philip is a great guy and very willing to work with you if you ask.*
 *the GE would answer our questions very clearly*
-*The GE clarified a lot of material that was covered in the lecture, and it was very helpful.*
-</p>
+*The GE clarified a lot of material that was covered in the lecture, and it was very helpful.*</p>
          </details>
 * EC202 Introduction to Economic Analysis: Macroeconomics
 * EC320 Introduction to Econometrics
