@@ -8,6 +8,14 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
+output:
+  css: ['default', 'metropolis', 'metropolis-fonts', 'my-css.css']
+      self_contained: false
+      nature:
+        highlightStyle: github
+        highlightLines: true
+        countIncrementalSlides: false
+
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
@@ -71,14 +79,3 @@ header:
 * EC421 Introduction to Econometrics
 * EC607 Econometrics III, PhD
 
-.box1 {
-  width: 300px;
-  margin: 50px auto;
-  border: 4px solid #00bfb6;
-  padding: 20px;
-  text-align: center;
-  font-weight: 900;
-  color: #00bfb6;
-  font-family: arial;
-  position: relative;
-}
