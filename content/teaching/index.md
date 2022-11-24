@@ -24,7 +24,8 @@ header:
 * EC201 Introduction to Economic Analysis: Microeconomics
 <details>
            <summary>Comments</summary>
-           <p></br>*The GEs were awesome they really helped with my learning.*
+           <p></br>
+*The GEs were awesome they really helped with my learning.*
 
 *Philip is a great guy and very willing to work with you if you ask.*</p>
          </details>
