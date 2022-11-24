@@ -8,14 +8,6 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-output:
-  css: ['default', 'metropolis', 'metropolis-fonts', 'my-css.css']
-      self_contained: false
-      nature:
-        highlightStyle: github
-        highlightLines: true
-        countIncrementalSlides: false
-
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
