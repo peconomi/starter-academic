@@ -76,8 +76,3 @@ header:
 * EC421 Introduction to Econometrics
 * EC607 Econometrics III, PhD
 
-/* HTML Structure */
-<div class="box sb9">I'm speech bubble</div>
-<div class="box sb10">I'm speech bubble</div>
-<div class="box sb11">I'm speech bubble</div>
-<div class="box sb12">I'm speech bubble</div>
