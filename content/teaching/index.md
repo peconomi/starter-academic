@@ -42,7 +42,11 @@ header:
 *"Philip is very good at giving feedback and promoting learning through conversation."*<br>
 *"You're doing a great job, I love being in your class"*<br>
 *"This GE was very good at explaining tougher concepts, I always left class feeling confident."*<br>
-*"Philip described and explained all components for the class very well and was very helpful"*<br></p>
+*"Philip described and explained all components for the class very well and was very helpful"*<br>
+*"Philip explained concepts really well and always walked around to ask if we needed help or had any questions throughout the discussion."*<br>
+*"The instructor is patient and answers every question I ask.*<br>
+*"He's perfect."*<br>
+*"This discussion section was very well structured, and everything else listed above, from my view didn’t need any improvement"*</p>
          </details>
 * EC320 Introduction to Econometrics
 * EC421 Introduction to Econometrics
