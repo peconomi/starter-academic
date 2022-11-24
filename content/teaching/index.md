@@ -70,3 +70,15 @@ header:
 * EC320 Introduction to Econometrics
 * EC421 Introduction to Econometrics
 * EC607 Econometrics III, PhD
+
+.box1 {
+  width: 300px;
+  margin: 50px auto;
+  border: 4px solid #00bfb6;
+  padding: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #00bfb6;
+  font-family: arial;
+  position: relative;
+}
