@@ -18,4 +18,4 @@ In particular, local corruption contributes to increased exporter fixed costs fo
 A one unit intensification of corruption is associated with 2.53 to 4.81 percent and 1.41 to 2.53 percent higher average productivity across reamining exporting MNE affiliates and domestically-owned firms, respectively, relative to domestically-owned non-exporters.
 These findings suggest that corruption is a deteriment to export participation and limit participation to a subset of relatively more productive firms that can afford the associated costs. 
 
-👉 [See Paper](https://drive.google.com/file/d/1dEb9KDMtkKT0ieu9V19rE3baRI0dcxxw/view?usp=share_link)
+👉 [See Paper](https://drive.google.com/file/d/1dEb9KDMtkKT0ieu9V19rE3baRl0dcxxw/view?usp=share_link)
