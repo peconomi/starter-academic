@@ -1,7 +1,7 @@
 ---
-title: Firm Heterogeneities and Corruption: A Firm-Level Analysis on Emerging Markets
-subtitle: 3rd Year Field Paper
-date: 2021-12-11T23:45:23.073Z
+title: Firm Heterogeneities and Corruption
+subtitle: A Firm-Level Analysis on Emerging Markets
+date: 2022-03-11T23:45:23.073Z
 draft: false
 featured: false
 authors:
