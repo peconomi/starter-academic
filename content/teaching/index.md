@@ -28,7 +28,7 @@ header:
   <summary>Comments</summary>
            <p></br>12/41 responses across two surveys. End of term comments included:
            
-> *"Professor was extremely helpful and communicative throughout the entire term. Cared about students"*<br>
+  > *"Professor was extremely helpful and <font size= "1">communicative</font> throughout the entire term. Cared about students"*<br>
 
 > *"This is by far the best class I've ever had. Please go into academe ... we need professors like you."*<br>
 > *"Though I have criticisms of the course, I want to also acknowledge Philip's readiness to adapt to feedback from students. Following the midterm course evaluation, he made changes which positively impacted the class based on student suggestions. His willingness to listen to students and hear our concerns was beneficial, and I feel that it was a strength of his (along with individual support in course material)."*<br>
