@@ -24,7 +24,7 @@ header:
 
 * EC320 Introduction to Econometrics
 <details>
-<font size= “3”>
+<font size= "3">
   <summary>Comments</summary>
            <p></br>12/41 responses across two surveys. End of term comments included:
   </p>
