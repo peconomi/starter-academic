@@ -99,3 +99,80 @@ header:
 * EC421 Introduction to Econometrics
 * EC607 Econometrics III, PhD
 
+
+<style>
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+</style>
+
+<a class="button" onclick="previousReview()">Previous Review</a>
+<a class="button" onclick="nextReview()">Next Review</a>
+
+<script>
+  var currentReview = 0;
+  var reviews = [
+    {
+      "title": "Review 1",
+      "text": "the class was great!!"
+    },
+    {
+      "title": "Review 2",
+      "text": "Excellent class - one of my favorites. I may not get an A in the class, but I still really enjoyed it and liked the instructor."
+    },
+    {
+      "title": "Review 3",
+      "text": "I really liked how organized and clear the content and course was. It was really helpful to have a reliable lecture that made sense and went past just being talked at. I felt that the homework was very representative of what we learned in lecture so it was a great tool to reinforce learning and I also liked that it prepared me well for the midterm. I liked that there was no guessing what we would be doing or how I'm meant to learn X topic because your way of lecturing followed by homework was very reliable and organized."
+    },
+    {
+      "title": "Review 4",
+      "text": "Always willing to help whenever. Made office hours easy to access whenever, just needed to send an email to ask."
+    },
+    {
+      "title": "Review 5",
+      "text": "I seriously think this is one of the most enjoyable classes I've taken. The ratio of learning and interest (fun) in the class is well balanced, homework is at a good challenge level, course is clear and very linear in terms of progression. I feel that my grade is justified, as any mistakes I make are easy to learn from. Very solid class."
+    },
+    {
+      "title": "Review 6",
+      "text": "Kind of echoing what I said above, I really like that you lecture and don't just read off the slides. It's far more engaging than just listening to someone who sounds bored by themselves when they just read the slides. It also made me want to come to class and pay attention which is sometimes hard in Econ classes. So, overall I really enjoyed listening to you explain and go through the thought processes of learning the material rather than just hearing you talk at us. One thing also that I liked is that there was a good mix of math and conceptual learning. I'm very much a math type of person so when conceptual problems come up, they're usually harder for me, but I felt that the math in this course complimented the concepts well so that when it came to answering a conceptual question, it was way easier to wrap my head around it."
+    },
+    {
+      "title": "Review 7",
+      "text": "None. Brock is very fair and was always willing to help. Course was challenging but he made sure to break down the hard parts"
+    }
+  ];
+
+  function previousReview() {
+    currentReview--;
+    if (currentReview < 0) {
+      currentReview = reviews.length - 1;
+    }
+    displayReview();
+  }
+
+  function nextReview() {
+    currentReview++;
+    if (currentReview >= reviews.length) {
+      currentReview = 0;
+    }
+    displayReview();
+  }
+
+  function displayReview() {
+    document.getElementById("reviewTitle").innerHTML = reviews[currentReview].title;
+    document.getElementById("reviewText").innerHTML = reviews[currentReview].text;
+  }
+</script>
+
+<h2 id="reviewTitle">Review 1</h2>
+<p id="reviewText">This is the text for review 1</p>
+
