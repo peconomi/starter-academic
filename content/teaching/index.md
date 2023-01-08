@@ -48,6 +48,10 @@ header:
   #reviewText {
   font-size: smaller;
 }
+  
+  #reviewTitle {
+  font-size: medium;
+}
 </style>
 
 <a class="button" onclick="previousReview()">Previous Review</a>
