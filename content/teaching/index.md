@@ -27,31 +27,13 @@ header:
 <font size= “3”>
   <summary>Comments</summary>
            <p></br>12/41 responses across two surveys. End of term comments included:
-  
-  > *"Professor was extremely helpful and <font size= "1">communicative</font> throughout the entire term. Cared about students"*<br>
-
-> *"This is by far the best class I've ever had. Please go into academe ... we need professors like you."*<br>
-> *"Though I have criticisms of the course, I want to also acknowledge Philip's readiness to adapt to feedback from students. Following the midterm course evaluation, he made changes which positively impacted the class based on student suggestions. His willingness to listen to students and hear our concerns was beneficial, and I feel that it was a strength of his (along with individual support in course material)."*<br>
-
-> *"The instructor is always more than willing to help with a problem no matter the question or time. That is incredibly important to my learning in this course."*<br>
-
-> *"Instructor very helpful, always willing to communicate and help."*<br>
-
-> *"It would be nice if course material better prepared us for problem sets/quizzes."*<br>
-
-> *"The lectures could move quite a bit faster and cover more material."*<br>
-
-> *"Lectures are taught too fast to write notes. Instructions for assignments are hard to interpret. Communication needs to be better with the lab assistant on teaching R."*<br>
-
-> *"I have experienced a lot of accessibility problems in terms of technology with the course."*<br>
-
-> *"I've never had an instructor before who coupled so well being incredibly kind and accessible and supportive with also challenging me to constantly keep working to improve--whether it's a better data cleaning strategy or piece of code or conceptual understanding (even if Mas-Colell is still beyond me). I learned more in this class than any other class that I've taken, all due to a combination of immense patience and high standards, which combined to both demand and facilitate high-quality work."*<br></p>
+  </p>
 </font>
          </details>
          
 <style>
   .button {
-    background-color: #4CAF50;
+    background-color: #003f5c;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -72,31 +54,43 @@ header:
   var reviews = [
     {
       "title": "Review 1",
-      "text": "the class was great!!"
+      "text": "Professor was extremely helpful and communicative throughout the entire term. Cared about students."
     },
     {
       "title": "Review 2",
-      "text": "Excellent class - one of my favorites. I may not get an A in the class, but I still really enjoyed it and liked the instructor."
+      "text": "This is by far the best class I've ever had. Please go into academe ... we need professors like you."
     },
     {
       "title": "Review 3",
-      "text": "I really liked how organized and clear the content and course was. It was really helpful to have a reliable lecture that made sense and went past just being talked at. I felt that the homework was very representative of what we learned in lecture so it was a great tool to reinforce learning and I also liked that it prepared me well for the midterm. I liked that there was no guessing what we would be doing or how I'm meant to learn X topic because your way of lecturing followed by homework was very reliable and organized."
+      "text": "Though I have criticisms of the course, I want to also acknowledge Philip's readiness to adapt to feedback from students. Following the midterm course evaluation, he made changes which positively impacted the class based on student suggestions. His willingness to listen to students and hear our concerns was beneficial, and I feel that it was a strength of his (along with individual support in course material)."
     },
     {
       "title": "Review 4",
-      "text": "Always willing to help whenever. Made office hours easy to access whenever, just needed to send an email to ask."
+      "text": "The instructor is always more than willing to help with a problem no matter the question or time. That is incredibly important to my learning in this course."
     },
     {
       "title": "Review 5",
-      "text": "I seriously think this is one of the most enjoyable classes I've taken. The ratio of learning and interest (fun) in the class is well balanced, homework is at a good challenge level, course is clear and very linear in terms of progression. I feel that my grade is justified, as any mistakes I make are easy to learn from. Very solid class."
+      "text": "Instructor very helpful, always willing to communicate and help."
     },
     {
       "title": "Review 6",
-      "text": "Kind of echoing what I said above, I really like that you lecture and don't just read off the slides. It's far more engaging than just listening to someone who sounds bored by themselves when they just read the slides. It also made me want to come to class and pay attention which is sometimes hard in Econ classes. So, overall I really enjoyed listening to you explain and go through the thought processes of learning the material rather than just hearing you talk at us. One thing also that I liked is that there was a good mix of math and conceptual learning. I'm very much a math type of person so when conceptual problems come up, they're usually harder for me, but I felt that the math in this course complimented the concepts well so that when it came to answering a conceptual question, it was way easier to wrap my head around it."
+      "text": "It would be nice if course material better prepared us for problem sets/quizzes."
     },
     {
       "title": "Review 7",
-      "text": "None. Brock is very fair and was always willing to help. Course was challenging but he made sure to break down the hard parts"
+      "text": "The lectures could move quite a bit faster and cover more material."
+    },
+  {
+      "title": "Review 8",
+      "text": "Lectures are taught too fast to write notes. Instructions for assignments are hard to interpret. Communication needs to be better with the lab assistant on teaching R."
+    },
+  {
+      "title": "Review 9",
+      "text": "I have experienced a lot of accessibility problems in terms of technology with the course."
+    },
+   {
+      "title": "Review 10",
+      "text": "I've never had an instructor before who coupled so well being incredibly kind and accessible and supportive with also challenging me to constantly keep working to improve--whether it's a better data cleaning strategy or piece of code or conceptual understanding (even if Mas-Colell is still beyond me). I learned more in this class than any other class that I've taken, all due to a combination of immense patience and high standards, which combined to both demand and facilitate high-quality work."
     }
   ];
 
@@ -121,9 +115,9 @@ header:
     document.getElementById("reviewText").innerHTML = reviews[currentReview].text;
   }
 </script>
-
-<h2 id="reviewTitle">Reviews</h2>
-<p id="reviewText">Cycle through the reviews using the above buttons.</p>
+  
+<h2 id="reviewTitle">Review 1</h2>
+<p id="reviewText">Professor was extremely helpful and communicative throughout the entire term. Cared about students.</p>
          
 * EC380 International Economic Issues
 <details>
