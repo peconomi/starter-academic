@@ -44,6 +44,10 @@ header:
     margin: 4px 2px;
     cursor: pointer;
   }
+  
+  #reviewText {
+  font-size: smaller;
+}
 </style>
 
 <a class="button" onclick="previousReview()">Previous Review</a>
