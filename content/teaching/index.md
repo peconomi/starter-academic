@@ -122,8 +122,8 @@ header:
   }
 </script>
 
-<h2 id="reviewTitle">Review 1</h2>
-<p id="reviewText">This is the text for review 1</p>
+<h2 id="reviewTitle">Reviews</h2>
+<p id="reviewText">Cycle through the reviews using the above buttons.</p>
          
 * EC380 International Economic Issues
 <details>
