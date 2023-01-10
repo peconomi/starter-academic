@@ -1,7 +1,7 @@
 ---
 title: EC 423/523 Introduction to Econometrics
-subtitle: Teaching Assistant, Spring 2021
-date: 2021-06-05T07:16:18.548Z
+subtitle: Teaching Assistant, Fall 2020
+date: 2020-09-05T07:16:18.548Z
 draft: false
 featured: false
 authors:
