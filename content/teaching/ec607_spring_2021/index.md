@@ -1,5 +1,5 @@
 ---
-title: EC 607 Core Econometrics (II,III)
+title: EC 607 Core Econometrics (Graduate)
 subtitle: Teaching Assistant, Winter & Spring 2021
 date: 2020-06-05T07:16:18.548Z
 draft: false
