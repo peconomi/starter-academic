@@ -14,10 +14,10 @@ image:
 ---
 
 <details>
-Exchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.
+Exchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy. I split this course into three components: (i) Trade Theory - using the older models to highlight the gains from trade and potential ambiguity of labor market outcomes, (ii) Trade Policy - shifts us away from extremes of autarky and free trade to varying degrees of trade openness through tariff rate adjustments and import quotas, and (iii) Global Finance - provides a broad understanding of exchange rate movements and associated monetary policy. The Balance of Payments acts as our set of indicators for the state of the economy. 
 
 <font size= "3">
-  <summary>Comments</summary>
+  <summary>Details</summary>
            <p></br>12/41 responses across two surveys. End of term comments included:
   </p>
 </font>
