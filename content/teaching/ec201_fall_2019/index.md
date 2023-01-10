@@ -1,5 +1,5 @@
 ---
-title: EC201 Introduction to Economic Analysis: Microeconomics
+title: EC201 Introduction to Economic Analysis, Microeconomics
 subtitle: Teaching Assistant, Fall 2019
 date: 2019-01-05T07:16:18.548Z
 draft: false
