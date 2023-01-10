@@ -1,6 +1,6 @@
 ---
 title: EC 320 Introduction to Econometrics
-subtitle: Winter 2022
+subtitle: Sole Instructor, Winter 2022
 date: 2022-01-05T07:16:18.548Z
 draft: false
 featured: false
