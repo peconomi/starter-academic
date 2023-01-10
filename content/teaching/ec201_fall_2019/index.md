@@ -103,7 +103,7 @@ It was helpful to clarify various topics with the GE about the lecture, making a
     {
       "title": "Review 13",
       "text": "class is extremely helpful"
-    },
+    }
   ];
 
   function previousReview() {
