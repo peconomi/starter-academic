@@ -1,7 +1,7 @@
 ---
 title: EC 380 International Economic Issues
 subtitle: Sole Instructor, Fall 2022
-date: 2022-01-05T07:16:18.548Z
+date: 2022-09-05T07:16:18.548Z
 draft: false
 featured: false
 authors:
