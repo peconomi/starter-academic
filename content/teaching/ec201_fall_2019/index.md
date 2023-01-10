@@ -77,8 +77,7 @@ Provided two microeconomic labs to sets of students in the evenings of the term,
     },
     {
       "title": "Review 7",
-      "text": "I wish we could have had homework assignments so that we could practice the content we are being taught
-It was helpful to clarify various topics with the GE about the lecture, making a stronger learning experience."
+      "text": "I wish we could have had homework assignments so that we could practice the content we are being taught."
     },
     {
       "title": "Review 8",
