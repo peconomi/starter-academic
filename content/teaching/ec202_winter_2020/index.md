@@ -97,7 +97,7 @@ Provided two macroeconomic labs to sets of students in the afternoons of the ter
     },
     {
       "title": "Review 12",
-      "text": "Too hard. There were multiple instances where people at my table (and I would sit in on other classes, and random tables) would exchange looks with me as in, "What the hell is going on, I'm so confused." It's only a 50 min class, so trying to re-learn everything takes up too much time when you're rushing to other classes and/or work. Sometimes the chalkboard would look like hieroglyphics to me."
+      "text": "Too hard. There were multiple instances where people at my table (and I would sit in on other classes, and random tables) would exchange looks with me It's only a 50 min class, so trying to re-learn everything takes up too much time when you're rushing to other classes and/or work. Sometimes the chalkboard would look like hieroglyphics to me."
     },
     {
       "title": "Review 13",
