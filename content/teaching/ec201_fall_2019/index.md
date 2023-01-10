@@ -70,7 +70,40 @@ Provided two microeconomic labs to sets of students in the evenings of the term,
     {
       "title": "Review 5",
       "text": "It was helpful to clarify various topics with the GE about the lecture, making a stronger learning experience."
-    }
+    },
+    {
+      "title": "Review 6",
+      "text": "I felt that everything he talked about was relevant to my learning."
+    },
+    {
+      "title": "Review 7",
+      "text": "I wish we could have had homework assignments so that we could practice the content we are being taught
+It was helpful to clarify various topics with the GE about the lecture, making a stronger learning experience."
+    },
+    {
+      "title": "Review 8",
+      "text": "I wish this course was a little bit longer in time to tie all loose ends"
+    },
+    {
+      "title": "Review 9",
+      "text": "Loved it."
+    },
+    {
+      "title": "Review 10",
+      "text": " It was easy to ask questions and receive help"
+    },
+    {
+      "title": "Review 11",
+      "text": "Example problems and additional lectures thoroughly help me to learn more about microeconomics."
+    },
+    {
+      "title": "Review 12",
+      "text": " Nothing I would change."
+    },
+    {
+      "title": "Review 13",
+      "text": "class is extremely helpful"
+    },
   ];
 
   function previousReview() {
