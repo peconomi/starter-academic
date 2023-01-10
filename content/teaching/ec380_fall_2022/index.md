@@ -90,7 +90,7 @@ Exchange across international boundaries, theory of comparative advantage, balan
     },
    {
       "title": "Review 10",
-      "text": "I've never had an instructor before who coupled so well being incredibly kind and accessible and supportive with also challenging me to constantly keep working to improve--whether it's a better data cleaning strategy or piece of code or conceptual understanding (even if Mas-Colell is still beyond me). I learned more in this class than any other class that I've taken, all due to a combination of immense patience and high standards, which combined to both demand and facilitate high-quality work."
+      "text": "Sometimes assignments can get confusing and it’s hard to find where the content is in the lectures."
     },
   {
       "title": "Review 11",
