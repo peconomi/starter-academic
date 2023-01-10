@@ -112,7 +112,7 @@ Exchange across international boundaries, theory of comparative advantage, balan
     },
       "title": "Review 17",
       "text": "Professor Economides was really helpful and I'm so grateful he was able to meet me outside his normal office hours. It really helped to meet in office hours and ask all my questions. It was also nice to learn more about Brexit and the actual affects it can have on the world economy, as I don't think people really know how crazy the entire situation is."
-    },
+    }
   ];
 
   function previousReview() {
