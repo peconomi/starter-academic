@@ -4,7 +4,6 @@ subtitle: Fall 2022
 date: 2022-01-05T07:16:18.548Z
 draft: false
 featured: false
-external_link: https://philip-economides.com/teaching/ec380_fall_2022/
 authors:
   - P.
   - Economides
