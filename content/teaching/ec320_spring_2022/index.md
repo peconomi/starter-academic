@@ -14,7 +14,7 @@ image:
 ---
 
 <details>
-This course introduces the statistical techniques that help economists learn about the world using data. Using calculus and introductory statistics, students will cultivate a working understanding of the theory underpinning regression analysis—how it works, why it works, and when it can lead us astray. As the course progresses, students will apply the insights of theory to work with and learn from actual data using `R`, a statistical programming language. My goal is for students to leave the course with marketable skills in data analysis and—most importantly—a more sophisticated understanding of the notion that correlation does not necessarily imply causation.
+This course introduces the statistical techniques that help economists learn about the world using data. Using calculus and introductory statistics, students will cultivate a working understanding of the theory underpinning regression analysis - how it works, why it works, and when it can lead us astray. As the course progresses, students will apply the insights of theory to work with and learn from actual data using `R`, a statistical programming language. My goal is for students to leave the course with marketable skills in data analysis and - most importantly - a more sophisticated understanding of the notion that correlation does not necessarily imply causation.
 
 <font size= "3">
   <summary>Details</summary>
