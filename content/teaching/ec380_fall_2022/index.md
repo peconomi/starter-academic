@@ -1,6 +1,6 @@
 ---
 title: EC 380 International Economic Issues
-subtitle: Fall 2022
+subtitle: Sole Instructor, Fall 2022
 date: 2022-01-05T07:16:18.548Z
 draft: false
 featured: false
@@ -18,7 +18,7 @@ Exchange across international boundaries, theory of comparative advantage, balan
 
 <font size= "3">
   <summary>Details</summary>
-           <p></br>12/41 responses across two surveys. End of term comments included:
+           <p></br>19/59 responses across two surveys. End of term comments included:
   </p>
 </font>
          </details>
@@ -54,44 +54,65 @@ Exchange across international boundaries, theory of comparative advantage, balan
   var reviews = [
     {
       "title": "Review 1",
-      "text": "Professor was extremely helpful and communicative throughout the entire term. Cared about students."
+      "text": "Understanding from instructors is always the most make or break factor of a course. having an instructor that understands and can accommodate true, and real needs helps more than anything else. because often, the biggest barrier in a class is personal issues."
     },
     {
       "title": "Review 2",
-      "text": "This is by far the best class I've ever had. Please go into academe ... we need professors like you."
+      "text": "Professor Economides is more than willing to give feedback and answer any questions. This helped so much during the course as an online econ course can be very difficult. I'm so grateful for the feedback."
     },
     {
       "title": "Review 3",
-      "text": "Though I have criticisms of the course, I want to also acknowledge Philip's readiness to adapt to feedback from students. Following the midterm course evaluation, he made changes which positively impacted the class based on student suggestions. His willingness to listen to students and hear our concerns was beneficial, and I feel that it was a strength of his (along with individual support in course material)."
+      "text": "He always answers so fast!!"
     },
     {
       "title": "Review 4",
-      "text": "The instructor is always more than willing to help with a problem no matter the question or time. That is incredibly important to my learning in this course."
+      "text": "Very detailed lectures."
     },
     {
       "title": "Review 5",
-      "text": "Instructor very helpful, always willing to communicate and help."
+      "text": "good textbook and really awesome lectures"
     },
     {
       "title": "Review 6",
-      "text": "It would be nice if course material better prepared us for problem sets/quizzes."
+      "text": "for an online course he did well"
     },
     {
       "title": "Review 7",
-      "text": "The lectures could move quite a bit faster and cover more material."
+      "text": "Instructor Economides was really good about reaching out either through course announcements or personal messages on canvas as to any questions or struggles we were having."
     },
   {
       "title": "Review 8",
-      "text": "Lectures are taught too fast to write notes. Instructions for assignments are hard to interpret. Communication needs to be better with the lab assistant on teaching R."
+      "text": "well organized class"
     },
   {
       "title": "Review 9",
-      "text": "I have experienced a lot of accessibility problems in terms of technology with the course."
+      "text": "The assignments were a challenging mix of the lectures and book, but no answer was left unknown. To grasp the class in its entirety, each lecture and chapter needed to be read. This was great for my overall learning."
     },
    {
       "title": "Review 10",
       "text": "I've never had an instructor before who coupled so well being incredibly kind and accessible and supportive with also challenging me to constantly keep working to improve--whether it's a better data cleaning strategy or piece of code or conceptual understanding (even if Mas-Colell is still beyond me). I learned more in this class than any other class that I've taken, all due to a combination of immense patience and high standards, which combined to both demand and facilitate high-quality work."
-    }
+    },
+      "title": "Review 11",
+      "text": "The assignments were not too hard but the midterm was extremely difficult. There are too many lectures for only 27 questions with no midterm review. I did very well on assignments but bad on the midterm because it was extremely difficult not becasue I didn’t prepare."
+    },
+      "title": "Review 12",
+      "text": "I really wish I had had more practice problems to really practice the material we were learning. I think that would have been really helpful. Using the modules section on Canvas to also show what we were reviewing for the week and also link the recordings would also have helped a lot. He did start to do it later in the course."
+    },
+      "title": "Review 13",
+      "text": "It could've been just me but sometimes I felt like some of the PBS questions were a little confusing in their wording but nothing crazy."
+    },
+      "title": "Review 14",
+      "text": "I just felt alone at times. There was never really the instructor/student connection. This can be hard in an asynchronous class but in most of my other online courses, I have had a better connection."
+    },
+      "title": "Review 15",
+      "text": "The think the coursework was fine but it did get somewhat tedious as all the assignments were problem sets following the same structure. Some other formats of assignment such as writing/creative assignment could make learning the material a bit more engaging."
+    },
+      "title": "Review 16",
+      "text": "(Q:Please say more about how none of the teaching elements above need improvement to help your learning.) Nothing did, class is challenging but prof is fun."
+    },
+      "title": "Review 17",
+      "text": "Professor Economides was really helpful and I'm so grateful he was able to meet me outside his normal office hours. It really helped to meet in office hours and ask all my questions. It was also nice to learn more about Brexit and the actual affects it can have on the world economy, as I don't think people really know how crazy the entire situation is."
+    },
   ];
 
   function previousReview() {
@@ -117,7 +138,7 @@ Exchange across international boundaries, theory of comparative advantage, balan
 </script>
   
 <h2 id="reviewTitle">Review 1</h2>
-<p id="reviewText">Professor was extremely helpful and communicative throughout the entire term. Cared about students.</p>
+<p id="reviewText">	Understanding from instructors is always the most make or break factor of a course. having an instructor that understands and can accommodate true, and real needs helps more than anything else. because often, the biggest barrier in a class is personal issues.</p>
          
 
 👉 [See Github Resources](https://github.com/peconomi/EC380_International)
