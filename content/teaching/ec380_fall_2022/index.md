@@ -92,24 +92,31 @@ Exchange across international boundaries, theory of comparative advantage, balan
       "title": "Review 10",
       "text": "I've never had an instructor before who coupled so well being incredibly kind and accessible and supportive with also challenging me to constantly keep working to improve--whether it's a better data cleaning strategy or piece of code or conceptual understanding (even if Mas-Colell is still beyond me). I learned more in this class than any other class that I've taken, all due to a combination of immense patience and high standards, which combined to both demand and facilitate high-quality work."
     },
+  {
       "title": "Review 11",
       "text": "The assignments were not too hard but the midterm was extremely difficult. There are too many lectures for only 27 questions with no midterm review. I did very well on assignments but bad on the midterm because it was extremely difficult not becasue I didn’t prepare."
     },
+  {
       "title": "Review 12",
       "text": "I really wish I had had more practice problems to really practice the material we were learning. I think that would have been really helpful. Using the modules section on Canvas to also show what we were reviewing for the week and also link the recordings would also have helped a lot. He did start to do it later in the course."
     },
+  {
       "title": "Review 13",
       "text": "It could've been just me but sometimes I felt like some of the PBS questions were a little confusing in their wording but nothing crazy."
     },
+  {
       "title": "Review 14",
       "text": "I just felt alone at times. There was never really the instructor/student connection. This can be hard in an asynchronous class but in most of my other online courses, I have had a better connection."
     },
+  {
       "title": "Review 15",
       "text": "The think the coursework was fine but it did get somewhat tedious as all the assignments were problem sets following the same structure. Some other formats of assignment such as writing/creative assignment could make learning the material a bit more engaging."
     },
+  {
       "title": "Review 16",
       "text": "(Q:Please say more about how none of the teaching elements above need improvement to help your learning.) Nothing did, class is challenging but prof is fun."
     },
+  {
       "title": "Review 17",
       "text": "Professor Economides was really helpful and I'm so grateful he was able to meet me outside his normal office hours. It really helped to meet in office hours and ask all my questions. It was also nice to learn more about Brexit and the actual affects it can have on the world economy, as I don't think people really know how crazy the entire situation is."
     }
