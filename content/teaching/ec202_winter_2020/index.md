@@ -1,5 +1,5 @@
 ---
-title: EC202 Introduction to Economic Analysis, Macroeconomics
+title: EC 202 Introduction to Economic Analysis, Macroeconomics
 subtitle: Teaching Assistant, Winter 2020
 date: 2019-02-05T07:16:18.548Z
 draft: false
