@@ -13,6 +13,7 @@ image:
   preview_only: false
 ---
 
+<details>
 Exchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.
 
 <font size= "3">
