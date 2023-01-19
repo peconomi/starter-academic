@@ -12,6 +12,23 @@ weight: 60
 
 ---
 
+### Research Contributions
+
+---
+
+<div style="display: flex;">
+  <img src="research-image-3.png" style="width:200px;height:150px;margin-right:20px;">
+  <div>
+    <h3>Exploring the Impact of Climate Change on Coastal Ecosystems</h3>
+    <p><strong>Author:</strong> John Smith</p>
+    <p><strong>Publication:</strong> Nature</p>
+    <p>This study investigates the impact of climate change on coastal ecosystems, with a focus on sea level rise and changes in temperature and precipitation. Results show that these changes are having a significant impact on the health and diversity of coastal ecosystems, and that urgent action is needed to address this issue.</p>
+  </div>
+</div>
+
+---
+
+
 
 ## Working Papers
 
