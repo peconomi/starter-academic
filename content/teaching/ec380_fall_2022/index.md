@@ -24,10 +24,17 @@ Exchange across international boundaries, theory of comparative advantage, balan
          </details>
          
 <style>
+  
+  :root {
+    --night-text-color: white;
+    --day-text-color: black;
+}
+  
+@media (prefers-color-scheme: dark) {
   .button {
     background-color: #003f5c;
     border: none;
-    color: white;
+    color: var(--night-text-color);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -36,7 +43,23 @@ Exchange across international boundaries, theory of comparative advantage, balan
     margin: 4px 2px;
     cursor: pointer;
   }
+}
   
+@media (prefers-color-scheme: light) {
+  .button {
+    background-color: #003f5c;
+    border: none;
+    color: var(--day-text-color);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+}  
+
   #reviewText {
   font-size: smaller;
 }
