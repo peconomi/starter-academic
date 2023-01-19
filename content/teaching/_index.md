@@ -1,5 +1,6 @@
 ---
 title: Teaching
+jekyll: false
 ---
 
 <table>
