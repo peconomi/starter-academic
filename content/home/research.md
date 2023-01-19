@@ -12,10 +12,6 @@ weight: 60
 title: Research
 subtitle: ''
 
-content:
-  # Page type to display. E.g. project.
-  page_type: page
-
 ---
 
 ## Works in Progress
