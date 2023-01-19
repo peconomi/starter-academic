@@ -49,7 +49,7 @@ weight: 60
 <div class="row">
     <div class="card">
       <img src="research-image-3.png" class="card-img-top" alt="
-Measuring Economic Activity in the Presence of Superstar MNEs" style="width:400px;float:left;">
+Measuring Economic Activity in the Presence of Superstar MNEs" style="width:600px;float:left;">
       <div class="card-body">
         <h5 class="card-title">
 Measuring Economic Activity in the Presence of Superstar MNEs</h5>
@@ -60,7 +60,7 @@ Measuring Economic Activity in the Presence of Superstar MNEs</h5>
       </div>
     </div>
     <div class="card">
-      <img src="research-image-4.PNG" class="card-img-top float-left" alt="Firm-Level Productivity and Corruption" style="width:400px;float:left;">
+      <img src="research-image-4.PNG" class="card-img-top float-left" alt="Firm-Level Productivity and Corruption" style="width:600px;float:left;">
       <div class="card-body float-left">
         <h5 class="card-title">Firm-Level Productivity and Corruption</h5>
         <p class="card-text">Field Paper</p>
