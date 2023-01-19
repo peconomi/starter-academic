@@ -12,21 +12,6 @@ weight: 60
 
 ---
 
-## Working Papers
-- **Paper Title 1**: Abstract and Summary of the paper goes here.
-- **Paper Title 2**: Abstract and Summary of the paper goes here.
-- **Paper Title 3**: Abstract and Summary of the paper goes here.
-
-## Published Papers
-- **Paper Title 1**: Abstract and Summary of the paper goes here. (Journal Name, Year)
-- **Paper Title 2**: Abstract and Summary of the paper goes here. (Journal Name, Year)
-- **Paper Title 3**: Abstract and Summary of the paper goes here. (Journal Name, Year)
-
-## Conference Presentations
-- **Presentation Title 1**: Summary of the presentation goes here. (Conference Name, Year)
-- **Presentation Title 2**: Summary of the presentation goes here. (Conference Name, Year)
-- **Presentation Title 3**: Summary of the presentation goes here. (Conference Name, Year)
-
 ## Works in Progress
 
 <div class="row">
