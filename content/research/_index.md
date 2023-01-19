@@ -15,7 +15,6 @@ weight: 60
 ## Works in Progress
 
 <div class="row">
-  <div class="col-sm-6 col-md-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Unconventional Protectionism in Containerized Shipping</h5>
@@ -23,8 +22,6 @@ weight: 60
         <p class="card-text">Using novel port-level bilateral container flow data, I calibrate a quantitative model of roundtrip containerized trade and consider counterfactuals which affect the cost of using physical transport equipment and associated trade outcomes.</p>
       </div>
     </div>
-  </div>
-    <div class="col-sm-6 col-md-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Untiled Paper</h5>
@@ -41,13 +38,11 @@ weight: 60
         <p class="card-text">Exploits a quasi-natural experimental setting to examine the effect of a logistical change to port queues on local and global vessel emissions. More details to come.</p>
       </div>
     </div>
-  </div>
 </div>
 
 ## Working Papers
 
 <div class="row">
-  <div class="col-sm-6 col-md-4">
     <div class="card">
       <img src="research-image-3.png" class="card-img-top" alt="
 Measuring Economic Activity in the Presence of Superstar MNEs" style="width:400px;float:left;">
@@ -60,8 +55,6 @@ Measuring Economic Activity in the Presence of Superstar MNEs</h5>
         <p class="card-text"><a href="https://drive.google.com/file/d/1sp0DtQIbv6Ih-Ee5VeyfHJyYRajFUhSV/view?usp=sharing">Draft</a></p>
       </div>
     </div>
-  </div>
-  <div class="col-sm-6 col-md-4">
     <div class="card">
       <img src="research-image-4.PNG" class="card-img-top float-left" alt="Firm-Level Productivity and Corruption" style="width:400px;float:left;">
       <div class="card-body float-left">
@@ -71,5 +64,4 @@ Measuring Economic Activity in the Presence of Superstar MNEs</h5>
         <p class="card-text"><a href="https://drive.google.com/file/d/1dEb9KDMtkKT0ieu9V19rE3baRl0dcxxw/view?usp=share_link">Draft</a></p>
       </div>
     </div>
-  </div>
 </div>
