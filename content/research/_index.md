@@ -16,9 +16,9 @@ weight: 60
 
 ---
 
-<div style="display: flex;">
-  <img src="research-image-3.png" style="width:300px;height:220px;margin-right:20px;margin-top:160px;">
-  <div>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="research-image-3.png" style="width:100%;max-width: 300px; height:220px; margin-top:160px;">
+  <div style="width:100%;">
     <h3>Measuring Economic Activity in the Presence of Superstar MNEs</h3>
     <p><strong>Revise & resubmit</strong>, Economic Letters</p>
     <p>with Giorgi Nikolaishvili</p>
