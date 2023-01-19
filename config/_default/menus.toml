@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Policy Research"
+  url = "pr/"
   weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
@@ -29,3 +29,8 @@
     name = "CV"
     url = "media/dec_2022_cv.pdf"
     weight = 50
+    
+[[main]]
+    name = "Related Studies"
+    url  = "rs/"
+    weight = 60
