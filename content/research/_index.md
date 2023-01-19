@@ -34,7 +34,7 @@ weight: 60
   <div>
     <h3>Firm-Level Productivity and Corruption</h3>
     <p>Field paper</p>
-    <p>Using the World Bank Enterprise Surveys and an augmented proximity-concentration model based on the Helpman et al. (2004) framework, I test whether host country corruption influences the composition of local exporters and multinational enterprise (MNE) affiliates. In this setting, a firm’s ‘type’ is assumed to be determined by an exogenously drawn productivity level and country-specific fixed costs. I find evidence that greater degrees of host corruption cause underling fixed costs to rise, reflected by differences in average firm producitivty, both at the country and country-industry levels. In particular, local corruption contributes to increased exporter fixed costs for both domestic firms and MNEs, costs which only relatively more productive firms can afford. A one unit intensification of corruption is associated with 2.53 to 4.81 percent and 1.41 to 2.53 percent higher average productivity across reamining exporting MNE affiliates and domestically-owned firms, respectively, relative to domestically-owned non-exporters. These findings suggest that corruption is a deteriment to export participation and limit participation to a subset of relatively more productive firms that can afford the associated costs.</p>
+    <p style="font-size:0.8em">Using the World Bank Enterprise Surveys and an augmented proximity-concentration model based on the Helpman et al. (2004) framework, I test whether host country corruption influences the composition of local exporters and multinational enterprise (MNE) affiliates. In this setting, a firm’s ‘type’ is assumed to be determined by an exogenously drawn productivity level and country-specific fixed costs. I find evidence that greater degrees of host corruption cause underling fixed costs to rise, reflected by differences in average firm producitivty, both at the country and country-industry levels. In particular, local corruption contributes to increased exporter fixed costs for both domestic firms and MNEs, costs which only relatively more productive firms can afford. A one unit intensification of corruption is associated with 2.53 to 4.81 percent and 1.41 to 2.53 percent higher average productivity across reamining exporting MNE affiliates and domestically-owned firms, respectively, relative to domestically-owned non-exporters. These findings suggest that corruption is a deteriment to export participation and limit participation to a subset of relatively more productive firms that can afford the associated costs.</p>
     <p><a href="https://drive.google.com/file/d/1dEb9KDMtkKT0ieu9V19rE3baRl0dcxxw/view?usp=share_link">Draft</a></p>
   </div>
 </div>
@@ -49,7 +49,7 @@ weight: 60
       <div class="card-body">
         <h5 class="card-title">Unconventional Protectionism in Containerized Shipping</h5>
         <p class="card-text">Job Market Paper</p>
-        <p class="card-text">Using novel port-level bilateral container flow data, I calibrate a quantitative model of roundtrip containerized trade and consider counterfactuals which affect the cost of using physical transport equipment and associated trade outcomes.</p>
+        <p class="card-text" style="font-size:0.8em">Using novel port-level bilateral container flow data, I calibrate a quantitative model of roundtrip containerized trade and consider counterfactuals which affect the cost of using physical transport equipment and associated trade outcomes.</p>
       </div>
     </div>
   </div>
@@ -58,7 +58,7 @@ weight: 60
       <div class="card-body">
         <h5 class="card-title">Untiled Paper</h5>
         <p class="card-text">Second Dissertation Contribution</p>
-        <p class="card-text">More details to come.</p>
+        <p class="card-text" style="font-size:0.8em">More details to come.</p>
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@ weight: 60
       <div class="card-body">
         <h5 class="card-title">Cargo Ships & Coastal Smog, Container Queues in San Pedro Bay</h5>
         <p class="card-text">Third Dissertation Contribution</p>
-        <p class="card-text">Exploits a quasi-natural experimental setting to examine the effect of a logistical change to port queues on local and global vessel emissions. More details to come.</p>
+        <p class="card-text" style="font-size:0.8em">Exploits a quasi-natural experimental setting to examine the effect of a logistical change to port queues on local and global vessel emissions. More details to come.</p>
       </div>
     </div>
   </div>
