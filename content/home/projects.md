@@ -33,10 +33,6 @@ content:
     tag: 'wp'
   - name: Work-in-Progress
     tag: 'wip'
-  - name: Int. Trade
-    tag: 'Trade'
-  - name: Time Series
-    tag: 'ts'
   - name: Policy Research
     tag: 'pr'
 
