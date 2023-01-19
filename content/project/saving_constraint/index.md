@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 tags:
-  - pub
+  - pr
 ---
 Despite the increasingly wide-spread nature of macroprudential regulations, relatively few studies have assessed the implications of such policies on key household finance decisions. 
 In this paper, we investigate the impact on Irish household perceived savings constraints of macroprudential policy measures introduced by the Central Bank of Ireland in early 2015. 
