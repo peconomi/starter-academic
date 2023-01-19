@@ -8,7 +8,7 @@ jekyll: false
     <td style="text-align: left">EC 380 International Economic Issues</td>
     <td style="text-align: center">Sole Instructor</td>
     <td style="text-align: center">Fall 2022, Winter 2023</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec380_fall_2022/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec380_fall_2022/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -18,7 +18,7 @@ jekyll: false
     <td style="text-align: left">EC 320 Introduction to Econometrics</td>
     <td style="text-align: center">Sole Instructor</td>
     <td style="text-align: center">Winter 2022</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec320_spring_2022/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec320_spring_2022/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -29,7 +29,7 @@ jekyll: false
     <td style="text-align: left">EC 607 Core Econometrics (Graduate)</td>
     <td style="text-align: center">Teaching Assistant</td>
     <td style="text-align: center">Winter 2021, Spring 2021</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec607_spring_2021/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec607_spring_2021/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -40,7 +40,7 @@ jekyll: false
     <td style="text-align: left">EC 423/523 Introduction to Econometrics</td>
     <td style="text-align: center">Teaching Assistant</td>
     <td style="text-align: center">Fall 2020</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec421_spring_2021/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec421_spring_2021/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -51,7 +51,7 @@ jekyll: false
     <td style="text-align: left">EC 482/582 Economics of Globalization</td>
     <td style="text-align: center">Teaching Assistant</td>
     <td style="text-align: center">Fall 2021</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec482_fall_2021/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec482_fall_2021/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -62,7 +62,7 @@ jekyll: false
     <td style="text-align: left">EC 484/584 Multinational Corporations</td>
     <td style="text-align: center">Teaching Assistant</td>
     <td style="text-align: center">Fall 2021</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec484_fall_2021/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec484_fall_2021/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -73,7 +73,7 @@ jekyll: false
     <td style="text-align: left">EC 320 Introduction to Econometrics</td>
     <td style="text-align: center">Teaching Assistant</td>
     <td style="text-align: center">Spring 2020</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec320_spring_2020/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec320_spring_2020/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -84,7 +84,7 @@ jekyll: false
     <td style="text-align: left">EC 202 Introduction to Economic Analysis, Macroeconomics</td>
     <td style="text-align: center">Teaching Assistant</td>
     <td style="text-align: center">Winter 2020</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec202_winter_2020/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec202_winter_2020/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
@@ -95,7 +95,7 @@ jekyll: false
     <td style="text-align: left">EC 201 Introduction to Economic Analysis, Microeconomics</td>
     <td style="text-align: center">Teaching Assistant</td>
     <td style="text-align: center">Fall 2019</td>
-    <td style="text-align: right"><a href="https://philip-economides.com/teaching/ec201_fall_2019/">Reviews</a></td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/ec201_fall_2019/">Reviews</a></td>
   </tr>
   <tr>
     <td colspan="4">
