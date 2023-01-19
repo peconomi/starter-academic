@@ -23,23 +23,28 @@ content:
 <div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="card">
-      <img src="research_pic_1.jpg" class="card-img-top" alt="Research contribution 1">
       <div class="card-body">
-        <h5 class="card-title">Research Contribution 1</h5>
-        <p class="card-text">Authors: John Doe, Jane Smith</p>
-        <p class="card-text">Published in: Journal of Economic Analysis</p>
-        <p class="card-text">A brief summary of the research contribution.</p>
+        <h5 class="card-title">Unconventional Protectionism in Containerized Shipping</h5>
+        <p class="card-text">Job Market Paper</p>
+        <p class="card-text">Using novel port-level bilateral container flow data, I calibrate a quantitative model of roundtrip containerized trade and consider counterfactuals which affect the cost of using physical transport equipment and associated trade outcomes.</p>
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-6 col-md-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Untiled Paper</h5>
+        <p class="card-text">Second Dissertation Contribution</p>
+        <p class="card-text">More details to come.</p>
       </div>
     </div>
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="card">
-      <img src="research_pic_2.jpg" class="card-img-top" alt="Research contribution 2">
       <div class="card-body">
-        <h5 class="card-title">Research Contribution 2</h5>
-        <p class="card-text">Authors: John Doe, Jane Smith, Michael Brown</p>
-        <p class="card-text">Published in: Journal of International Economics</p>
-        <p class="card-text">A brief summary of the research contribution.</p>
+        <h5 class="card-title">Cargo Ships & Coastal Smog, Container Queues in San Pedro Bay</h5>
+        <p class="card-text">Third Dissertation Contribution</p>
+        <p class="card-text">Exploits a quasi-natural experimental setting to examine the effect of a logistical change to port queues on local and global vessel emissions. More details to come.</p>
       </div>
     </div>
   </div>
@@ -51,7 +56,7 @@ content:
   <div class="col-sm-6 col-md-4">
     <div class="card">
       <img src="research-image-3.png" class="card-img-top" alt="
-Measuring Economic Activity in the Presence of Superstar MNEs">
+Measuring Economic Activity in the Presence of Superstar MNEs" style="width:400px;float:left;">
       <div class="card-body">
         <h5 class="card-title">
 Measuring Economic Activity in the Presence of Superstar MNEs</h5>
@@ -64,8 +69,8 @@ Measuring Economic Activity in the Presence of Superstar MNEs</h5>
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="card">
-      <img src="research-image-4.png" class="card-img-top" alt="Firm-Level Productivity and Corruption">
-      <div class="card-body">
+      <img src="research-image-4.PNG" class="card-img-top float-left" alt="Firm-Level Productivity and Corruption" style="width:400px;float:left;">
+      <div class="card-body float-left">
         <h5 class="card-title">Firm-Level Productivity and Corruption</h5>
         <p class="card-text">Field Paper</p>
         <p class="card-text">Using the World Bank Enterprise Surveys and an augmented proximity-concentration model based on the Helpman et al. (2004) framework, I test whether host country corruption influences the composition of local exporters and multinational enterprise (MNE) affiliates. In this setting, a firm’s ‘type’ is assumed to be determined by an exogenously drawn productivity level and country-specific fixed costs. I find evidence that greater degrees of host corruption cause underling fixed costs to rise, reflected by differences in average firm producitivty, both at the country and country-industry levels. In particular, local corruption contributes to increased exporter fixed costs for both domestic firms and MNEs, costs which only relatively more productive firms can afford. A one unit intensification of corruption is associated with 2.53 to 4.81 percent and 1.41 to 2.53 percent higher average productivity across reamining exporting MNE affiliates and domestically-owned firms, respectively, relative to domestically-owned non-exporters. These findings suggest that corruption is a deteriment to export participation and limit participation to a subset of relatively more productive firms that can afford the associated costs.</p>
