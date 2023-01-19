@@ -69,8 +69,8 @@ Exchange across international boundaries, theory of comparative advantage, balan
 }
 </style>
 
-<a class="button" onclick="previousReview()">Previous Review</a>
-<a class="button" onclick="nextReview()">Next Review</a>
+<a class="button" onclick="previousReview()">&#9664;</a>
+<a class="button" onclick="nextReview()">&#9654;</a>
 
 <script>
   var currentReview = 0;
