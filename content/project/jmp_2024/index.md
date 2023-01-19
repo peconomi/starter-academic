@@ -1,5 +1,5 @@
 ---
-title: (Job Market Paper) Containerized Trade and Policy Intervention
+title: (Job Market Paper) Unconventional Protectionism in Containerized Shipping
 date: 2021-09-11T23:45:23.073Z
 draft: false
 featured: false
