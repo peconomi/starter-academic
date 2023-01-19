@@ -9,7 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 tags:
-  - ts
   - wp
 
 ---
