@@ -17,12 +17,12 @@ weight: 60
 ---
 
 <div style="display: flex;">
-  <img src="research-image-3.png" style="width:300px;height:250px;margin-right:20px;margin-top:120px;">
+  <img src="research-image-3.png" style="width:300px;height:250px;margin-right:20px;margin-top:160px;">
   <div>
     <h3>Exploring the Impact of Climate Change on Coastal Ecosystems</h3>
     <p><strong>Revise & resubmit</strong>, Economic Letters</p>
     <p>with Giorgi Nikolaishvili</p>
-    <p>In 2015, changes to Irish tax legislation, known as the “2015 Finance Act”, coincided with a 25 percent annual increase in real gross domestic product. We provide evidence confirming the convictions of existing literature that the presence of large multinational enterprises (MNEs) is likely to have “distorted” Irish GDP, a measure previously considered to be a reliable proxy of domestic economic activity. Furthermore, we provide an alternative method of statistically isolating the variation in GDP growth attributable solely to domestic activity growth to infer the prevailing state of the Irish economy. Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.</p>
+    <p style="font-size:0.8em">In 2015, changes to Irish tax legislation, known as the “2015 Finance Act”, coincided with a 25 percent annual increase in real gross domestic product. We provide evidence confirming the convictions of existing literature that the presence of large multinational enterprises (MNEs) is likely to have “distorted” Irish GDP, a measure previously considered to be a reliable proxy of domestic economic activity. Furthermore, we provide an alternative method of statistically isolating the variation in GDP growth attributable solely to domestic activity growth to infer the prevailing state of the Irish economy. Our findings imply a 21% lower level of GDP relative to the official measure recorded for 2020. We suggest that our methodology may be applied by policymakers in small open economies to improve the accuracy of growth and business cycle monitoring.</p>
     <p><a href="https://drive.google.com/file/d/1sp0DtQIbv6Ih-Ee5VeyfHJyYRajFUhSV/view?usp=sharing">Draft</a></p>
   </div>
 </div>
