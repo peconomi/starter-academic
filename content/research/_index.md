@@ -17,7 +17,7 @@ weight: 60
 ---
 
 <div style="display: flex;">
-  <img src="research-image-3.png" style="width:300px;height:250px;margin-right:20px;">
+  <img src="research-image-3.png" style="width:300px;height:250px;margin-right:20px;margin-top:40px;">
   <div>
     <h3>Exploring the Impact of Climate Change on Coastal Ecosystems</h3>
     <p><strong>Revise & resubmit</strong>, Economic Letters</p>
@@ -30,7 +30,7 @@ weight: 60
 ---
 
 <div style="display: flex;">
-  <img src="research-image-4.PNG" style="width:300px;height:250px;margin-right:20px;">
+  <img src="research-image-4.PNG" style="width:300px;height:250px;margin-right:20px;margin-top:40px;">
   <div>
     <h3>Firm-Level Productivity and Corruption</h3>
     <p>Field paper</p>
