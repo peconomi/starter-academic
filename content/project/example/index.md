@@ -12,7 +12,6 @@ tags:
   - International Trade
   - Firm-Level
   - Productivity
-  - Trade
   - wp
 links: []
 image:
