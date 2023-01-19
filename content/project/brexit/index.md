@@ -9,6 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 tags:
-  - pub
+  - pr
 ---
 A counterfactual analysis of the long-run growth prospects of Ireland under various potential Brexit scenarios. Commissioned by the Irish government's Department of Finance and co-authored as part of the ESRI.
