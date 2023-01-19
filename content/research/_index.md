@@ -41,7 +41,9 @@ weight: 60
 
 ---
 
-## Works in Progress
+### Works in Progress
+
+---
 
 <div class="row">
   <div class="col-sm-6 col-md-4">
