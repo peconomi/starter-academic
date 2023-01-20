@@ -13,7 +13,7 @@ abstract: This Article attempts to quantify the macroeconomic impact of Brexit
   impact on Ireland using the COSMO model. Overall, in each scenario, the level
   of Irish output is permanently below where it otherwise would have been were
   the UK to decide to remain in the EU.
-url_pdf: ""
+url_pdf: "publication/brexit/example.pdf"
 publication_types:
   - "4"
 authors:
