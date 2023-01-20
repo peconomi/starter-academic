@@ -33,7 +33,7 @@ featured: true
 
 links:
 url_slides: 
-url_pdf: 'https://drive.google.com/file/d/1sp0DtQIbv6Ih-Ee5VeyfHJyYRajFUhSV/view?usp=sharing'
+url_pdf: 'files/papers/ireland_dfm_dec22.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
