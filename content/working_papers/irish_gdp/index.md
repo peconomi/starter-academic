@@ -63,4 +63,4 @@ projects:
 slides: 
 ---
 
-__Revise & Resubmit, Economic Letters__ 
+__Accepted, Economic Letters__ 
