@@ -44,4 +44,4 @@ highlight_name: false
 4th year Ph.D. candidate in Economics at the University of Oregon. 
 My research focuses on maritime trade and transport, MNE activities, and trade barriers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/feb_23_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/apr_23_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
