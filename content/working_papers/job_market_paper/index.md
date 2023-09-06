@@ -47,7 +47,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'files/papers/JMP_May_23.pdf'
+url_pdf: 'files/papers/JMP_Sept_23.pdf'
 url_slides: ''
 
 # Featured image
