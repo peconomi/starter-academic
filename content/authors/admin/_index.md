@@ -49,4 +49,4 @@ As a secondary area of interest, I also pursue studies on multinational enterpri
 Prior to my time in Oregon, I was engaged in policy research as macroeconomic RA at the Economic and Social Research Institute in Ireland.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/may_23_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/sept_23_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
