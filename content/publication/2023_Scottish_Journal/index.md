@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "We investigate the impact of macroprudential policy on Irish households' perception of savings adequacy, with a particular focus on households intending to purchase a home. These measures tighten loan-to-value ratios and raise the entry cost for home purchase. We find that the measures have had a significant impact on savings constraints. Indeed, constrained potential buyers, who are planning to purchase, but not presently saving to buy a home, are the group most affected as the macroprudential rules increase the downpayment size required. Heterogeneous effects across households indicate younger, private renting households, and those with relatively uncertain cash flows."
 
 # Summary. An optional shortened abstract.
-summary: __Scottish Journal of Political Economy, Vol. 68(2)__ <br /> with K. McQuinn and C. O'Toole <br /> We investigate the impact of macroprudential policy on Irish households' perception of savings adequacy, with a particular focus on households intending to purchase a home. These measures tighten loan-to-value ratios and raise the entry cost for home purchase. We find that the measures have had a significant impact on savings constraints. Indeed, constrained potential buyers, who are planning to purchase, but not presently saving to buy a home, are the group most affected as the macroprudential rules increase the downpayment size required. Heterogeneous effects across households indicate younger, private renting households, and those with relatively uncertain cash flows. 
+summary: __Scottish Journal of Political Economy (2021), Vol. 68(2)__ <br /> with K. McQuinn and C. O'Toole <br /> We investigate the impact of macroprudential policy on Irish households' perception of savings adequacy, with a particular focus on households intending to purchase a home. These measures tighten loan-to-value ratios and raise the entry cost for home purchase. We find that the measures have had a significant impact on savings constraints. Indeed, constrained potential buyers, who are planning to purchase, but not presently saving to buy a home, are the group most affected as the macroprudential rules increase the downpayment size required. Heterogeneous effects across households indicate younger, private renting households, and those with relatively uncertain cash flows. 
 
 tags:
 - Housing economics
@@ -63,4 +63,4 @@ projects:
 slides: 
 ---
 
-__Scottish Journal of Political Economy, Vol. 68(2)__ 
+__Scottish Journal of Political Economy (2021), Vol. 68(2)__ 
