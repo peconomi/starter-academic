@@ -33,7 +33,7 @@ featured: true
 
 links:
 url_slides: 
-url_pdf: 'files/papers/ireland_dfm_dec22.pdf'
+url_pdf: 'files/papers/SJPE_CT_KM_PE.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
