@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "In 2015, the Irish economy experienced a 25 percent annual increase in GDP, driven largely by the repositioning of multinational enterprises' intangible assets and their associated revenue streams. We address these distortions in assessing the state of the domestic Irish economy by utilizing a two-step dynamic factor model. We find that real output in Ireland is heavily inflated by the presence these intangible assets and their associated tax minimization schemes. We use our findings to assess the state of the domestic economy and gauge its fiscal position among EU27 member states."
 
 # Summary. An optional shortened abstract.
-summary: __Economics Letters, Vol. 226__ <br /> with [Giorgi Nikolaishvili](https://giorginikolaishvili.com/) <br /> In 2015, the Irish economy experienced a 25 percent annual increase in GDP, driven largely by the repositioning of multinational enterprises' intangible assets and their associated revenue streams. We address these distortions in assessing the state of the domestic Irish economy by utilizing a two-step dynamic factor model. We find that real output in Ireland is heavily inflated by the presence these intangible assets and their associated tax minimization schemes. We use our findings to assess the state of the domestic economy and gauge its fiscal position among EU27 member states. 
+summary: __Economics Letters (2023), Vol. 226__ <br /> with [Giorgi Nikolaishvili](https://giorginikolaishvili.com/) <br /> In 2015, the Irish economy experienced a 25 percent annual increase in GDP, driven largely by the repositioning of multinational enterprises' intangible assets and their associated revenue streams. We address these distortions in assessing the state of the domestic Irish economy by utilizing a two-step dynamic factor model. We find that real output in Ireland is heavily inflated by the presence these intangible assets and their associated tax minimization schemes. We use our findings to assess the state of the domestic economy and gauge its fiscal position among EU27 member states. 
 
 tags:
 - Economic Measurement
@@ -63,4 +63,4 @@ projects:
 slides: 
 ---
 
-__Economic Letters, Vol. 226__ 
+__Economic Letters (2023), Vol. 226__ 
