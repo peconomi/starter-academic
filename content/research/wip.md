@@ -31,7 +31,7 @@ title: Works in Progress
       <div class="card-body">
         <h5 class="card-title">To Be Announced</h5>
         <p class="card-text">Pipeline Item</p>
-        <p class="card-text" style="font-size:0.8em">This prospective work considers dovetailing studies of trade and ecological decline.</p>
+        <p class="card-text" style="font-size:0.8em">More details to come.</p>
       </div>
     </div>
   </div>
