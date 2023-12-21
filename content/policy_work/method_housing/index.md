@@ -1,6 +1,6 @@
 ---
 abstract: This paper examines the manner in which owner-occupiers housing costs are incorporated in the official inflation index. In particular, the focus is on the net acquisitions and the payments approach, which are currently used by the Central Statistics Office (CSO). The paper provides a detailed overview of the two approaches, along with some suggestion for further refinement.
-url_pdf: "publication/method_housing/example.pdf"
+url_pdf: "policy_work/method_housing/example.pdf"
 publication_types:
   - "4"
 authors:
