@@ -42,11 +42,13 @@ superuser: true
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in Economics at the University of Oregon and a citizen of the Republic of Ireland. 
-My research focuses on maritime trade and transport, and addresses liner shipping regulation, port congestion and environmental policy. 
+I am a Ph.D. Candidate in Economics at the University of Oregon. 
+As an international trade economist, my research focuses on maritime transport, liner shipping regulation, port congestion and environmental policy. 
 Leveraging tools from both reduced-form empirics and structural analyses, I explore complex models of transport logistics and assess recently implemented maritime policy. 
-As a secondary area of interest, I also pursue studies on multinational enterprise activities and have recently published a study of the influence of MNE's intellectual property on Irish GDP in Economics Letters.
-Prior to my time in Oregon, I was engaged in policy research as macroeconomic RA at the Economic and Social Research Institute in Ireland.
+My other stream of research focuses on the influence of superstar multinational enterprises on small open economies.
+Prior to Ph.D., I performed policy research in Ireland as macroeconomic RA at the Economic and Social Research Institute.
+
+**Beginning in Fall 2024, I will be joining the Department of Economics at Texas Tech University as an Assistant Professor**
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_feb_24.pdf" "newtab" >}}CV{{< /staticref >}}.
