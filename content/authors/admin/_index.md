@@ -48,7 +48,7 @@ Leveraging tools from both reduced-form empirics and structural analyses, I expl
 My other stream of research focuses on the influence of superstar multinational enterprises on small open economies.
 Prior to Ph.D., I performed policy research in Ireland as macroeconomic RA at the Economic and Social Research Institute.
 
-**Beginning in Fall 2024, I will be joining the Department of Economics at Texas Tech University as an Assistant Professor**
+**Beginning in Fall 2024, I will be joining the Department of Economics at Texas Tech University as an Assistant Professor.**
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_feb_24.pdf" "newtab" >}}CV{{< /staticref >}}.
