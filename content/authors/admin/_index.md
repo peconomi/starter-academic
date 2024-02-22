@@ -46,7 +46,7 @@ I am a Ph.D. Candidate in Economics at the University of Oregon.
 As an international trade economist, my research focuses on maritime transport, liner shipping regulation, port congestion and environmental policy. 
 Leveraging tools from both reduced-form empirics and structural analyses, I explore complex models of transport logistics and assess recently implemented maritime policy. 
 My other stream of research focuses on the influence of superstar multinational enterprises on small open economies.
-Prior to Ph.D., I performed policy research in Ireland as macroeconomic RA at the Economic and Social Research Institute.
+Prior to my Ph.D., I performed policy research in Ireland as macroeconomic RA at the Economic and Social Research Institute.
 
 **Beginning in Fall 2024, I will be joining the Department of Economics at Texas Tech University as an Assistant Professor.**
 
