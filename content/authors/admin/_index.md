@@ -1,6 +1,6 @@
 ---
 title: Philip Economides
-role: PhD Candidate, Economics
+role: Assistant Professor of Economics
 avatar_filename: low_q_jpg.jpg
 bio: My research focuses on maritime trade and transport, MNE activities and
   trade barriers.
@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/economip/
 organizations:
-  - name: University of Oregon
+  - name: Texas Tech University
 education:
   courses:
     - course: PhD in Economics
