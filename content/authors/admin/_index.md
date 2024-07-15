@@ -44,7 +44,6 @@ highlight_name: false
 
 I am an Assistant Professor of Economics at Texas Tech University.
 
-I received my PhD in Economics from the University of Oregon in 2024. As an international trade economist, my research focuses on maritime transport, liner shipping regulation, port congestion and environmental policy. My other stream of research focuses on the influence of superstar multinational enterprises on small open economies.
-Prior to my Ph.D., I performed policy research in Ireland as macroeconomic RA at the Economic and Social Research Institute.
+As an international trade economist, my research focuses on maritime transport, liner shipping regulation, port congestion and environmental policy. My other stream of research focuses on the influence of superstar multinational enterprises on small open economies.
   
 {{< icon name="download" pack="fas" >}} See my {{< staticref "media/cv_july_24.pdf" "newtab" >}}CV{{< /staticref >}}.
