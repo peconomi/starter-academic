@@ -72,4 +72,4 @@ projects:
 slides: 
 ---
 
-__Short Version__ [Click Here](files/papers/UP_short_102024.pdf)
+__Short Version__ [Click Here](https://philip-economides.com/files/papers/UP_short_102024.pdf)
