@@ -72,4 +72,4 @@ projects:
 slides: 
 ---
 
-__Job Market Paper__ 
+__Short Version__ [Click Here](files/papers/UP_short_10202024.pdf)
