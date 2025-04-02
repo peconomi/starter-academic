@@ -21,6 +21,22 @@ Exchange across international boundaries, theory of comparative advantage, balan
   </p>
 </font>
          </details>
+
+<details>
+<summary>Performance Metrics</summary>
+
+| Question Text | Avg | ECO Avg |
+|--------------|-----|---------|
+| Course assignments facilitated learning | 5 | 4.5 |
+| Course was organized | 4.7 | 4.5 |
+| Opportunities to be successful in course | 5 | 4.5 |
+| Overall course helped learn required concepts/skills | 4.7 | 4.5 |
+| Instructor presented material in way that helped engage in course | 4.7 | 4.4 |
+| Instructor helped to understand relevance of course content | 5 | 4.5 |
+| Instructor tailored instructions/lessons to variety of perspectives | 4 | 4.4 |
+| Overall, Instructor's teaching methods helped to learn course content | 4.7 | 4.4 |
+
+</details>
          
 <style>
   .button {
