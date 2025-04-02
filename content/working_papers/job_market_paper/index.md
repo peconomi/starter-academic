@@ -47,7 +47,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'files/papers/Unconventional_Protectionism_PE_AUG24.pdf'
+url_pdf: 'files/papers/Unconventional_Protectionism.pdf'
 url_slides: ''
 
 # Featured image
