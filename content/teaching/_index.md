@@ -5,6 +5,16 @@ jekyll: false
 
 <table>
   <tr>
+    <td style="text-align: left">ECO 3333 International Economics</td>
+    <td style="text-align: center">Sole Instructor</td>
+    <td style="text-align: center">Fall 2024, Fall 2025</td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/eco3333/">Reviews</a></td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Exchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy. I split this course into three components: (i) Trade Theory - using the older models to highlight the gains from trade and potential ambiguity of labor market outcomes, (ii) Trade Policy - shifts us away from extremes of autarky and free trade to varying degrees of trade openness through tariff rate adjustments and import quotas, and (iii) Global Finance - provides a broad understanding of exchange rate movements and associated monetary policy.<br></td>
+  </tr>
+  <tr>
     <td style="text-align: left">EC 380 International Economic Issues</td>
     <td style="text-align: center">Sole Instructor</td>
     <td style="text-align: center">Fall 2022, Winter 2023</td>
