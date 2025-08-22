@@ -46,4 +46,4 @@ I am an Assistant Professor of Economics at Texas Tech University.
 
 As an international trade economist, my research focuses on maritime transport, liner shipping regulation, port congestion and environmental policy. My other stream of research focuses on the influence of superstar multinational enterprises on small open economies.
   
-{{< icon name="download" pack="fas" >}} See my {{< staticref "media/cv_jun_25.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my {{< staticref "media/cv_aug_25.pdf" "newtab" >}}CV{{< /staticref >}}.
