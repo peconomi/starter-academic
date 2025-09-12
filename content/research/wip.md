@@ -13,7 +13,7 @@ title: Works in Progress
       <div class="card-body">
         <h5 class="card-title">Container Ports</h5>
         <p class="card-text">with Woan Foong Wong and Simon Fuchs</p>
-        <p class="card-text" style="font-size:0.8em">More details to come.</p>
+        <p class="card-text" style="font-size:0.8em">Combines historical vessel movement data with records of waterborne commerce to evaluate the spatial distribution maritime commerce and its influence on local labor market outcomes.</p>
       </div>
     </div>
   </div>
@@ -22,7 +22,7 @@ title: Works in Progress
       <div class="card-body">
         <h5 class="card-title">Power Consolidation & Retaliatory Tariffs</h5>
         <p class="card-text">-</p>
-        <p class="card-text" style="font-size:0.8em"></p>
+        <p class="card-text" style="font-size:0.8em">More details to come.</p>
       </div>
     </div>
   </div>
@@ -30,7 +30,7 @@ title: Works in Progress
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Left Off the Manifest: Food Supply Attrition in the Pacific</h5>
-        <p class="card-text">-e</p>
+        <p class="card-text">-</p>
         <p class="card-text" style="font-size:0.8em">More details to come.</p>
       </div>
     </div>
