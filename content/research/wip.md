@@ -20,7 +20,7 @@ title: Works in Progress
   <div class="col-sm-6 col-md-4">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Power Consolidation & Retaliatory Tariffs</h5>
+        <h5 class="card-title">Multinational Enterprises and National Accounting Mismeasurement</h5>
         <p class="card-text">-</p>
         <p class="card-text" style="font-size:0.8em">More details to come.</p>
       </div>
