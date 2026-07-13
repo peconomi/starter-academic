@@ -5,6 +5,16 @@ jekyll: false
 
 <table>
   <tr>
+    <td style="text-align: left">ECO 5325 Seminar on International Economics</td>
+    <td style="text-align: center">Sole Instructor</td>
+    <td style="text-align: center">Fall 2026</td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/eco5325/">Reviews</a></td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      This class covers topics of international trade theory, trade policy, and global financial markets. The class is broadly intended to be a review of the prevailing literature across a wide array of topics. In addition, students are expected to become familiar with writing referee reports, prepare presentations on papers related to those we cover in class, and write a final project proposal outline on a topic of international economics.<br></td>
+  </tr>
+  <tr>
     <td style="text-align: left">ECO 4331 Economics of Multinational Enterprises</td>
     <td style="text-align: center">Sole Instructor</td>
     <td style="text-align: center">Fall 2025, Fall 2026</td>
