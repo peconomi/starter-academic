@@ -12,7 +12,7 @@ jekyll: false
   </tr>
   <tr>
     <td colspan="4">
-      Exchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy. I split this course into three components: (i) Trade Theory - using the older models to highlight the gains from trade and potential ambiguity of labor market outcomes, (ii) Trade Policy - shifts us away from extremes of autarky and free trade to varying degrees of trade openness through tariff rate adjustments and import quotas, and (iii) Global Finance - provides a broad understanding of exchange rate movements and associated monetary policy.<br></td>
+      International finance examines the determination of exchange rates, international capital movements, and the financial decisions of firms operating across borders. I split this course into three components: (i) <strong>Exchange Rates and Open-Economy Macroeconomics</strong> - developing the tools needed to understand exchange-rate movements, balance-of-payments adjustment, and monetary policy; (ii) <strong>International Financial Management</strong> - studying currency exposure, hedging, the international cost of capital, and cross-border investment decisions; and (iii) <strong>Global Financial Markets and Policy</strong> - examining reserve management, financial institutions, crises, and current developments in international markets.<br></td>
   </tr>
   <tr>
     <td style="text-align: left">ECO 3333 International Economics</td>
