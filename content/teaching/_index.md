@@ -5,6 +5,16 @@ jekyll: false
 
 <table>
   <tr>
+    <td style="text-align: left">ECO 4331 Economics of Multinational Enterprises</td>
+    <td style="text-align: center">Sole Instructor</td>
+    <td style="text-align: center">Fall 2025, Fall 2026</td>
+    <td style="text-align: right"><a href="https://philip-economides.com/review/eco4331/">Reviews</a></td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      The economics of multinational enterprises examines why firms expand across borders, how they organize production internationally, and how public policy shapes those decisions. I split this course into three components: (i) <strong>Trade Costs and Multinational Formation</strong> - studying why firms serve foreign markets through exporting, licensing, or foreign direct investment; (ii) <strong>Global Production and Firm Strategy</strong> - examining horizontal and vertical FDI, international sourcing, and the organization of production across countries; and (iii) <strong>Policy and Corporate Responsibility</strong> - considering international taxation, profit shifting, environmental and social responsibility, and the broader consequences of multinational activity.<br></td>
+  </tr>
+  <tr>
     <td style="text-align: left">ECO 4332 International Finance</td>
     <td style="text-align: center">Sole Instructor</td>
     <td style="text-align: center">Spring 2025, Spring 2026</td>
