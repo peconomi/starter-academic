@@ -1,13 +1,12 @@
 ---
-title: ECO 5325 Seminar in Economic Policy: International Economics
+title: ECO 5325 Seminar in Economic Policy (International Economics)
 subtitle: Instructor, Spring 2026
 date: 2024-01-05T07:16:18.548Z
 lastmod: 2026-07-13T00:00:00.000Z
 draft: false
 featured: false
 authors:
-  - P.
-  - Economides
+  - P. Economides
 image:
   filename: course_pic.jpg
   focal_point: Smart
