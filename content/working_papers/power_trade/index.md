@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'files/papers/trade_policy_power.pdf'
+url_pdf: 'files/papers/Power_Consolidation_and_Retaliatory_Tariffs.pdf'
 url_slides: ''
 
 # Featured image
