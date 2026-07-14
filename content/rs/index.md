@@ -2,7 +2,7 @@ In this section, I provide details on recent studies into maritime transport and
 
 <br>
 
-### [Multimodal Transport Networks](https://sfuchs-de.github.io/research/Multimodal_Fuchs_Wong.pdf)
+### [Multimodal Transport Networks](https://www.nber.org/papers/w35065)
 #### Simon Fuchs and Woan Foong Wong
 <details>
            <summary>Abstract:</summary>
@@ -12,7 +12,7 @@ In this section, I provide details on recent studies into maritime transport and
 
 <br>
 
-### [Unintended Consequences of Environmental Regulation of Maritime Shipping: Carbon Leakage to Air Shipping](https://drive.google.com/file/d/12QYjH6lvrJ23AaUjmSPhEneX6_3ZivRq/view)
+### [Unintended Consequences of Environmental Regulation of Maritime Shipping: Carbon Leakage to Air Shipping](https://www.sciencedirect.com/science/article/abs/pii/S0022199625000376)
 #### Volodymyr Lugovskyy, Alexandre Skiba and David Terner
 <details>
            <summary>Abstract:</summary>
